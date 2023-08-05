@@ -1,12 +1,22 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "note_id": ""
+        "title": "This is the first note",
+        "text": "Hello World!!",
+        "id": "26ead18a-4db9-4072-bac2-8f36457820d4"
     },
     {
-        "title": "Random shit",
-        "text": "Hello World",
-        "id": "0233d083-129e-482c-8c8a-b09106a96652"
+        "title": "This is the second note",
+        "text": "Let's have some fun!",
+        "id": "70ca6103-f12d-48fd-82a4-fb2e363e42c8"
+    },
+    {
+        "title": "The best game engine",
+        "text": "Unreal engine is the best game engine. It's been widely used for game development and untra-realistic game rendering.",
+        "id": "aced216e-0d3c-4c23-b6f6-a3acb65d9f91"
+    },
+    {
+        "title": "Animal fun facts",
+        "text": "Only female mosquitoes bite.\nPolar bear skin is black!\nStarfish do not have a brain.",
+        "id": "11053df9-c3ff-4d0b-a9c7-10b5d867cf93"
     }
 ]
