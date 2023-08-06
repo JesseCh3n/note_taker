@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-You can start taking notes by hiting the 'plus' icon and writing down a note title and descriptions. Hit the 'save' icon to save a note in the database. Hit the 'delete' icon to delete a note. 
+You can start taking notes by hiting the 'plus' icon and writing down a note title and descriptions. Hit the 'save' icon to save a note in the database. Hit the 'delete' icon to delete a note.
 ![alt screenshot](./image.jpg)
 
 ## Credits
